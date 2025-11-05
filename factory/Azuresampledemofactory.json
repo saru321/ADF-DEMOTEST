@@ -1,0 +1,9 @@
+{
+	"name": "Azuresampledemofactory",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d690da7e-14d8-49e3-b11c-fa796899ba81",
+		"tenantId": "db18fa50-1f68-45bc-9295-8441d362cd39"
+	}
+}
